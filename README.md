@@ -2,15 +2,13 @@
 
 I'm a Philosophy & Computer Science student at Tulane University with a minor in English and a minor crisis about which career path to choose. (Current frontrunner: law. Runner-up: everything else.)
 
-I write code, write briefs, and occasionally write things that are neither.
-
 ## What I've Built
 
 | Project | Language | Description |
 
 | Projectile Motion Simulator | MATLAB | Physics-based game modeling real projectile trajectories. Newton would be proud. |
-| Hangman | Python | The classic. Clean logic, zero mercy. |
-| GeoGuesser | C | Drop a coordinate, make your best guess. Built in C because I enjoy suffering. |
+| Hangman | Python | The classic guessing game. |
+| GeoGuesser | C | Drop a coordinate, make your best guess. |
 | Adventure Game | Java | Text-based adventure with branching paths and multiple maps. |
 
 ## About Me
