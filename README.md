@@ -1,6 +1,6 @@
 # Hi, I'm Mary
 
-I'm a Philosophy & Computer Science student at Tulane University with a minor in English and a minor crisis about which career path to choose. (Current frontrunner: law. Runner-up: everything else.)
+I'm a Philosophy & Computer Science student at Tulane University with a minor in English.
 
 ## What I've Built
 
