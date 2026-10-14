@@ -1,25 +1,20 @@
 # Hi, I'm Mary
 
-I'm a Philosophy & Computer Science student at Tulane University with a minor in English.
+CS & Philosophy senior at Tulane, interested in building AI tools that make technology more accessible.
 
-## What I've Built
+## Experience
+**Software Intern, Tulane/Iowa Hydroinformatics Lab (Summer 2026)**
+Worked with several models for flood prediction and prevention in Google Colab. [Multimodal Benchmarking of Geospatial Foundation Models for Flood Inundation Mapping]
 
+**Hackathons:** [Cyber-Security Hackathon New Orleans Spring 2026 - 2nd place; Tulane Coding Club Mini Hackathons]
+
+## Projects
 | Project | Language | Description |
+|---|---|---|
+| [Flood Mapping project] | Python | [Benchmarked five GFM's on held-out flood events for future flood prevention using Sentinel-1 and Sentinel-2 data] |
+| Projectile Motion Simulator | MATLAB | Physics-based game modeling real projectile trajectories |
+| Adventure Game | Java | Text-based adventure with branching paths and multiple maps |
+| GeoGuesser | C | Coordinate-guessing game |
 
-| Projectile Motion Simulator | MATLAB | Physics-based game modeling real projectile trajectories. Newton would be proud. |
-| Hangman | Python | The classic guessing game. |
-| GeoGuesser | C | Drop a coordinate, make your best guess. |
-| Adventure Game | Java | Text-based adventure with branching paths and multiple maps. |
-
-## About Me
-
-- New Orleans, LA
-- Interested in the intersection of law and technology
-- Building toward roles where I can use code to solve real problems; ideally at a company that moves fast and builds things that matter
-- Currently deepening my skills in Python and exploring how software can be designed to be both technically sound and practically useful
-
-## Reach Me
-
- - email: mboult@tulane.edu
- - phone: (629) 213 1630
- - LinkedIn: https://www.linkedin.com/in/mary-boult-abab8033b/
+## Contact
+mboult@tulane.edu · [LinkedIn](https://www.linkedin.com/in/mary-boult-abab8033b/)
